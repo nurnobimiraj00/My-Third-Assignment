@@ -1,3 +1,5 @@
+// https://github.com/nurnobimiraj00/My-Third-Assignment/blob/main/assignment.js
+
 // 1st part
 function kilometerToMeter(n){
     var meter = n * 1000;
